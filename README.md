@@ -10,13 +10,12 @@
 - Daha sonra altyapıyı indirip `./beş_config.js` dosyalarını doldurun.
 - sonrasında modülleri kurmak için terminale aşşağıdaki kodu yaz.
 
-- DİKKATLİ OKU DAHA SONRA BOŞ YAPMA 
-- **{ "System":
-- { "Prefix": [".","!"], 
-- "Token": "MTE1MzU2NDM0NjA5ODY0NzA5Mg.GlJFme.-LbkLUBYT0ujlE_ytaBMam5e8Ma8HbKQnIU0Mk", 
-- "MongoDb": "mongodb+srv://areslesnar36:areslesnar36@cluster0.6cviagy.mongodb.net/?retryWrites=true&w=majority" },
-- "Bot": { "Voice": "1176511422117720102", 
-- "Text": "Developed with ❤️ by fantasy" },**
+```diff
+npm install
+```
+- `config dosyası` Configdeki Tokenleri
+- Doldur ve ardından mongodb url gir ve daha sonra owner id
+- `.help` komuduyla tüm komutlara ulaşabilirsin.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
