@@ -17,18 +17,4 @@ npm install
 - Doldur ve ardından mongodb url gir ve daha sonra owner id
 - `.help` komuduyla tüm komutlara ulaşabilirsin.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/fantasy.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="fantasy.dev" height="30" width="40" /></a>
-<a href="https://instagram.com/efexroot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="efexroot" height="30" width="40" /></a>
-<a href="https://discord.gg/discord.gg/hotlinebest" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord.gg/hotlinebest" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/fantasxrd"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="fantasxrd" /></a><a href="https://ko-fi.com/fantasyxrd"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="fantasyxrd" /></a></p><br><br>
-
-<h3 align="left">Support:</h3>
-<p><a href="[https://www.buymeacoffee.com/fantasxrd](https://cdn.discordapp.com/attachments/1176511422117720100/1180479565865439342/image.png?ex=657d9244&is=656b1d44&hm=017f258f9b184ba6badd24c8826cd92a5496b9c40fd9adf2842e5edfd4cab6e1&)"> <img align="left" src="" height="50" width="210" alt="fantasxrd" /></a><a href="https://ko-fi.com/fantasyxrd"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="fantasyxrd" /></a></p><br><br>
+<img  src="<img  src="https://cdn.discordapp.com/attachments/950167988127006821/1090923072644722739/2023-03-30_11-49-54.png">
