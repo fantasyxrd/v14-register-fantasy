@@ -1,7 +1,7 @@
 <h3 align="center">Selamun Aleykum</h3>
 
 - DİKKATLİ OKU DAHA SONRA BOŞ YAPMA 
-**{ "System": { "Prefix": [".","!"], 
+- **{ "System": { "Prefix": [".","!"], 
 "Token": "MTE1MzU2NDM0NjA5ODY0NzA5Mg.GlJFme.-LbkLUBYT0ujlE_ytaBMam5e8Ma8HbKQnIU0Mk", 
 "MongoDb": "mongodb+srv://areslesnar36:areslesnar36@cluster0.6cviagy.mongodb.net/?retryWrites=true&w=majority" },
  "Bot": { "Voice": "1176511422117720102", 
