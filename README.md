@@ -3,7 +3,7 @@
 <h3 align="center">OKU !!!</h3>
 
 
-<a href="https://discord.gg/hotlinebest">[ ❓ ] Altyapıyı Kurdun Ve Hata Alıyorsan Buraya Tıkla!</a>
+<a href="https://discord.gg/hotlinebest">[ ❓ ] Soru sormak için tıkla</a>
 - İlk olarak bilgisayarına [Node JS](https://nodejs.org/en/) `(en düşük v16)` indir.
 
 - ⚠️ MIT LİCENSE VAR ÇALARSANIZ ANNANIZI SİKERİM
