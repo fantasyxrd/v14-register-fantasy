@@ -10,6 +10,14 @@
 - Daha sonra altyapıyı indirip `./beş_config.js` dosyalarını doldurun.
 - sonrasında modülleri kurmak için terminale aşşağıdaki kodu yaz.
 
+
+- ⚠️ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Delicious+Handrawn&size=60&pause=1000&color=00F743&repeat=false&width=800&height=100&lines=4+TANE+SİZİN+İÇİN+HATALAR+HAHA)](#)
+
+```diff
+Bota hatalar bıraktım düzeltip tadını çıkarabilirsiniz
+githubdaki her projede var hata bundada var 4 tane
+```
+
 ```diff
 npm install
 ```
