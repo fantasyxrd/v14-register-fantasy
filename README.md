@@ -7,7 +7,7 @@
 - İlk olarak bilgisayarına [Node JS](https://nodejs.org/en/) `(en düşük v16)` indir.
 
 - ⚠️ MIT LİCENSE VAR ÇALARSANIZ ANNANIZI SİKERİM
-- Daha sonra altyapıyı indirip `./beş_config.js` dosyalarını doldurun.
+- Daha sonra altyapıyı indirip `.src/settings/config.json` dosyalarını doldurun.
 - sonrasında modülleri kurmak için terminale aşşağıdaki kodu yaz.
 
 
