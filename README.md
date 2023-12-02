@@ -17,4 +17,4 @@ npm install
 - Doldur ve ardından mongodb url gir ve daha sonra owner id
 - `.help` komuduyla tüm komutlara ulaşabilirsin.
 
-<img  src="<img  src="https://cdn.discordapp.com/attachments/1176511422117720100/1180479565865439342/image.png?ex=657d9244&is=656b1d44&hm=017f258f9b184ba6badd24c8826cd92a5496b9c40fd9adf2842e5edfd4cab6e1&">
+src="<img  src="https://cdn.discordapp.com/attachments/1176511422117720100/1180479565865439342/image.png?ex=657d9244&is=656b1d44&hm=017f258f9b184ba6badd24c8826cd92a5496b9c40fd9adf2842e5edfd4cab6e1&">
